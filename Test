@@ -3,3 +3,4 @@ Test case beginning, and  dont forget to use decscription!
 2. other test case
 3. pay -> go out -> end
 4. login -> make a payment -> scan qr -> end
+5. login -> input phone number retriever ->send money-> end
