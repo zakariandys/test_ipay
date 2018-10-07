@@ -1,6 +1,6 @@
 Test case beginning, and  dont forget to use decscription!
 1. bla..blaa -> hit api -> end
-2. other test case
+2. //removed test case
 3. pay -> go out -> end
 4. login -> make a payment -> scan qr -> end
 5. login -> input phone number retriever ->send money-> end
