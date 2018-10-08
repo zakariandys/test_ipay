@@ -1,4 +1,4 @@
-Author: Samsul saputro
+Author: No author, this is general document
 Date: 7 October 2018
 Place: Tangerang
 
@@ -10,7 +10,7 @@ Test case beginning, and  dont forget to use decscription!
 3. pay -> go out -> end
 4. login -> make a payment -> scan qr -> end
 5. login -> input phone number retriever ->send money-> end
-6. //todo
+6. login -> register with phone number -> verification
 7. //todo
 
 Buatlah dokumentasi dalam bahasa Indonesia!
