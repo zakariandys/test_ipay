@@ -1,0 +1,6 @@
+ur first example demonstrates a fast-forwards merge. The code below creates a new branch. adds two commits to it, then integrates it into the main line with a fast-forwards merge.
+
+This is a common workfloe for short-lived topic branches that are used more ad an isolated development than an organizational tool for longer-running features.
+
+Also note that Git should not complain about the git branch -d, since new-feature is noe accesible from the master branch.
+
