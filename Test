@@ -1,4 +1,5 @@
 vim
+nano
 
 Let’s not get overly confident. Sooner or later, this is going to happen. While working with several remotes in the same git repository, you will eventually git push --force into master (or another important branch that should never be messed with).
 
